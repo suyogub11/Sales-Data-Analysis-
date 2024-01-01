@@ -30,6 +30,34 @@ Here's a sneak peek into what we've uncovered:
 - Excel: For data manipulation, calculations, and basic visualizations.
 - Tableau, Power BI, or Google Data Studio: For creating captivating and interactive visualizations.
 
+## Visual Showcase
+### 1. Sales by Month:
+This chart illustrates the trend of sales over the course of a year, with a specific highlight on December, which showed a significant increase in sales, aligning with the provided insight of December being a standout month.
+![Sales by month](https://julius.ai/files?filename=sales_by_month.png)
+
+### 2. Sales by City:
+This visualization compares the total sales across different cities, emphasizing San Francisco as the city with the highest sales, which is in line with the insight that San Francisco is a key market.
+![sales by city](https://julius.ai/files?filename=sales_by_city.png)
+
+### 3. USB Charging Cable Sales:
+The chart for USB charging cable sales demonstrates the demand for this product compared to others, supporting the insight that even small-ticket items can have a significant impact on sales.
+![USB charging Cable sales](https://julius.ai/files?filename=usb_charging_cable_sales.png)
+
+### 4. Financial Performance:
+The financial performance chart shows the revenue and profit trends over time, providing a snapshot of the company's financial health throughout the year.
+![Financial performanace](https://julius.ai/files?filename=financial_performance.png)
+
+
+## Getting Started
+1. 🚀 Clone the repository:
+git clone https://github.com/suyogub11/Sales-Analytics-using-power-BI.git
+2. 📊 Open the Power BI file (sales_analytics_dashboard.pbix) using Power BI Desktop.
+3. 🌐 Explore, customize, and empower your sales strategy!
+
+## conclusion:
+Sales Data Analytics Project has given us important information to improve how we sell products. We learned about trends, which products sell the most, and got a clear picture of our finances. To move forward, we want to focus on our best products, address differences in sales between cities, and make sure our product lineup is optimized. Looking ahead, we plan to use predictions, understand our customers better, and include more external information for smarter decisions. This project is a starting point for using data to make our sales strategy better and keep improving.
+
+
 ## Contributions
 
 We welcome contributions, feedback, and collaboration. If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
