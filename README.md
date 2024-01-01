@@ -50,7 +50,7 @@ The financial performance chart shows the revenue and profit trends over time, p
 
 ## Getting Started
 1. 🚀 Clone the repository:
-git clone https://github.com/suyogub11/Sales-Analytics-using-power-BI.git
+git clone https://github.com/suyogub11/Sales-Data-Analysis-.git
 2. 📊 Open the Power BI file (meriSKIl sales DashBoard.pbix) using Power BI Desktop.
 3. 🌐 Explore, customize, and empower your sales strategy!
 
