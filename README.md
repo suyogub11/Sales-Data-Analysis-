@@ -33,19 +33,19 @@ Here's a sneak peek into what we've uncovered:
 ## Visual Showcase
 ### 1. Sales by Month:
 This chart illustrates the trend of sales over the course of a year, with a specific highlight on December, which showed a significant increase in sales, aligning with the provided insight of December being a standout month.
-![Sales by month](https://julius.ai/files?filename=sales_by_month.png)
+![Sales by month](https://api.chatwithyourdata.io/images/b6855da0-f187-4d23-98f2-39af6c26b23c.png)
 
 ### 2. Sales by City:
 This visualization compares the total sales across different cities, emphasizing San Francisco as the city with the highest sales, which is in line with the insight that San Francisco is a key market.
-![sales by city](https://julius.ai/files?filename=sales_by_city.png)
+![sales by city](https://api.chatwithyourdata.io/images/8373b0af-c4a9-4b31-b8b5-78d8ad34726a.png)
 
 ### 3. USB Charging Cable Sales:
 The chart for USB charging cable sales demonstrates the demand for this product compared to others, supporting the insight that even small-ticket items can have a significant impact on sales.
-![USB charging Cable sales](https://julius.ai/files?filename=usb_charging_cable_sales.png)
+![USB charging Cable sales](https://api.chatwithyourdata.io/images/4b53916b-db57-48fa-ac54-aac975500d25.png)
 
 ### 4. Financial Performance:
 The financial performance chart shows the revenue and profit trends over time, providing a snapshot of the company's financial health throughout the year.
-![Financial performanace](https://julius.ai/files?filename=financial_performance.png)
+![Financial performanace](https://api.chatwithyourdata.io/images/384abe9e-8ab9-45cb-acc2-eb6d8629fe5c.png)
 
 
 ## Getting Started
